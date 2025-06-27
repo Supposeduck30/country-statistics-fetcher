@@ -5,7 +5,7 @@ This program incorporates the use of the REST Countries API, which allows the pr
 - Give you a list of statistics you can search 
 - Uses the API to access real time statistics and outputs it
 
-## Version History 
+## 🕓 Version History 
 
 ### 1.0.0
 - Terminal based
@@ -20,7 +20,7 @@ This program incorporates the use of the REST Countries API, which allows the pr
  - Currency
  - Languages 
 
-## How to run 
+## 💻 How to run 
 1. Clone the repository
 
 2. (OPTIONAL) Create and activate a virtual environment
@@ -41,7 +41,7 @@ pip install requests
 python country_statistics.py
 ```
 
-## How it works 
+## ⚙️ How it works 
 1. It asks for a country name input
    
 2. It then sends a request to the REST Countries API to fetch data from that country
@@ -70,10 +70,10 @@ Which statistic? population
 
 Population for India: 1380004385
 ```
-## Upcoming Features
+## 🚀 Upcoming Features
 - More statistics will be coming 
 
-## Known Issues 
+## ⚠️ Known Issues 
 - May not be completely up to date (depends on how often the API gets updated)
 - Doesn’t list all the languages of a certain country
 - Needs internet connection to access the API 
