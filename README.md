@@ -11,14 +11,14 @@ This program incorporates the use of the REST Countries API, which allows the pr
 - Terminal based
 - Asks which country to focus on
 - Lists 8 different statistics that can be fetched 
- - Population
- - Regon
- - Subregion
- - Capital
- - Area
- - Timezones 
- - Currency
- - Languages 
+  - Population
+  - Regon
+  - Subregion
+  - Capital
+  - Area
+  - Timezones 
+  - Currency
+  - Languages 
 
 ## 💻 How to run 
 1. Clone the repository
