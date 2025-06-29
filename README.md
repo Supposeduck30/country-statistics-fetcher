@@ -73,7 +73,7 @@ Population for India: 1380004385
 ## 🚀 Upcoming Features
 - More statistics will be coming 
 
-## ⚠️ Known Issues 
+## ⚠️ Warnings/Known Issues 
 - May not be completely up to date (depends on how often the API gets updated)
 - Doesn’t list all the languages of a certain country
 - Needs internet connection to access the API 
